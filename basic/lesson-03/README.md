@@ -4,6 +4,7 @@
 * Able to create static methods (Joyce Farrel - Chapter 3 p.111-133)
 * Able to create a class with instance methods (Joyce Farrel - Chapter 3 p.133-145)
 * Able to create to declare Objects and use their methods (Joyce Farrel - Chapter 3 p.145-150)
+* Able to create to declare Objects and fields and get fields value by getter methods (Joyce Farrel - Chapter 3 p.145-150)
 
 
 
@@ -23,3 +24,8 @@ Assignment Read  `Creating Methods that Return Values` from Chapter 3 p.127-129
 
 Object/Instance Methods
 
+Assignment Read `Creating Instance Methods in a Class` from Chapter 3 p.138-141
+Assignment Read `Organizing Classes` from Chapter 3 p.141-143
+
+1. Do Exercise `Creating a Class that Contains Instance Fields and Methods` from Chapter 3 p.144-145
+2. Do Exercise `Declaring and Using Objects`  from Chapter 3 p.148-150
