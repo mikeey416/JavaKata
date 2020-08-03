@@ -14,9 +14,10 @@ public class KahitSinoAddress {
 
     public static void main(String[] args) {
 
-        KahitSinoAddress kahitSinoAddress = new KahitSinoAddress();
-        kahitSinoAddress.setAddress("Jan BagoongHouse Poblacion Floridablanca Pampanga");
+        KahitSinoAddress janAddress = new KahitSinoAddress();
+        janAddress.setAddress("Jan BagoongHouse Poblacion Floridablanca Pampanga");
 
-        System.out.println("Address: " + kahitSinoAddress.getAddress());
+        System.out.println("Jan's Address: " + janAddress.getAddress());
+
     }
 }
