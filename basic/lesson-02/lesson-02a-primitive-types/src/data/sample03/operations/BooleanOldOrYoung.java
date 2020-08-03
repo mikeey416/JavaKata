@@ -3,6 +3,8 @@ package data.sample03.operations;
 public class BooleanOldOrYoung {
     // Boolean operators
     // >,  < , == , >= , <= , !=
+
+    //Logical Operators
     // &&, ||
 
     static final int BATA = 19;
@@ -16,7 +18,7 @@ public class BooleanOldOrYoung {
         int edadNiRussel = 26;
         System.out.println("Matanda ba si Russel? " + (edadNiRussel > BATA) );
 
-        System.out.println("Young adult ba si Russel? " + (edadNiRussel > BATA && edadNiRussel < ADULTO) );
+        System.out.println("Young adult ba si Russel? " + (edadNiRussel > 19 && edadNiRussel < 30) );
 
     }
 }
