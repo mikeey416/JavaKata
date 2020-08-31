@@ -36,7 +36,7 @@ Create main class named `TestFitnessTracker` to print a FitnessTracker with the 
 Output
 ````
 Fitness activity is running.
-Spent minutes i 0.
+Spent minutes is 0.
 Year is January 1, 2020
 ````
 
@@ -55,8 +55,8 @@ FitnessTracker fitnessTracker = new FitnessTracker("hiking", 10, LocalDate.of(20
 
 Output
 ````
-Fitness activity is running.
-Spent minutes i 0.
+Fitness activity is hiking.
+Spent minutes is 10.
 Year is February 2, 2020
 ````
 
@@ -70,8 +70,16 @@ two values.
 
 (The diameter of a circle is twice the radius, and the area of a circle is pi multiplied by the square of the radius. Use the Math class PI constant
 for this calculation.) 
-
+ 
 Name of class is Circle.
+
+Output
+````
+Radius is 1
+Diameter is 2
+Area is xxx
+````
+
 
 ### Exercise 4
 Create a class named Person that holds the following fields: 
