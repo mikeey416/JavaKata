@@ -14,7 +14,8 @@ Design a Card class that contains a:
    
 Use the Card constructor to accept the suit and rank parameters,
 that will be set to respective fields.
-Provide getters for suit and rank field as well (No setters).
+No setters and getters for suit and rank fields.
+Use toString method return formatter values for printing.
 
 Create a PickTwoCards class that contains the main method. 
 Ask the user to input the suit.
