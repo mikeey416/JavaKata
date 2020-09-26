@@ -16,6 +16,11 @@ Use the Card constructor to accept the suit and rank parameters,
 that will be set to respective fields.
 No setters and getters for suit and rank fields.
 Use toString method return formatter values for printing.
+If you have Card of suit=s and rank=4, then toString should return,
+
+```
+4 of spades
+```
 
 Create a PickTwoCards class that contains the main method. 
 Ask the user to input the suit.
