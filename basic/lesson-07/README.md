@@ -27,5 +27,5 @@ You selected Spade!
 
 ### Exercise 2
 
-Using the Exercise 3 in lesson-06, for the randomizing
-of SUIT, use switch statement instead of IF statement.
+Using the Card Game Exercise 2 in practice-exercise-lesson-04-06,
+for the randomizing of SUIT, use switch statement instead of IF statement.
