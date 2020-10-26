@@ -2,7 +2,7 @@ package lesson07a;
 
 public class SwitchSameMonthMain {
     public static void main(String[] args) {
-        String month = "April";
+        String month = "March";
 
         switch (month) {
             case "March":
