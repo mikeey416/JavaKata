@@ -8,7 +8,7 @@
 ### Exercise 1
 Create a program that loops and prints 
 each month from January to December.
-This time use for loop.
+This time use enhanced for loop.
 
 Sample output:
 
@@ -18,9 +18,9 @@ January, February, March, April, May, June, July, August, September, October, No
 
    
 ### Exercise 2
-Write an application that counts by five from 10 through 500 inclusive, and
+Write an application that counts by ten from 10 through 500 inclusive, and
 that starts a new line after every multiple of 50 (50, 100, 150, and so on). 
-Save the file as CountByTens.java. Use for-loop.
+Save the file as CountByTens.java. Use simple for-loop.
 
 Sample output:
 
