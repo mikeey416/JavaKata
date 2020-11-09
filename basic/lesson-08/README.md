@@ -39,7 +39,7 @@ the computer and the user's pick everytime.
 Sample output:
 
 ```bash
- Please enter name of second player: Russel
+ Please enter name of user: Russel
  
  Hi Russel! Please choose (1 - rock, 2 - scissors, or 3 - paper): 2
 
