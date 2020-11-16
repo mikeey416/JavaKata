@@ -23,8 +23,8 @@ Sample output:
 ### Exercise 2
 Write an application that uses a loop to create the
 pattern of Os shown in Figure 6-32, page325 of Joyce Farrel Book, 
-in which each O is displayed one additional space to the right. Save
-the file as DiagonalOs.java.
+in which 10 lines of each O is displayed one additional space to 
+the right. Save the file as DiagonalOs.java.
 
 Sample output:
 
