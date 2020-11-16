@@ -9,7 +9,7 @@
 ### Exercise 1
 Write an application that counts by ten from 10 through 500 inclusive, and
 that starts a new line after every multiple of 50 (50, 100, 150, and so on). 
-Save the file as CountByTens.java. Use a nested for-loop.
+Save the file as CountByTens.java. Use a nested while-loop.
 
 Sample output:
 
