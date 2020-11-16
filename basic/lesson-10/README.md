@@ -30,10 +30,10 @@ Sample output:
 
 ```bash
 O
+ O
   O
    O
     O
      O
       O
-       O
 ```
