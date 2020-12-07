@@ -10,15 +10,26 @@ from first to last, and then display the integers from last to first. Save the f
 NineInts.java
 
 ### Exercise 2
-Allow a user to enter any number of double values up to 15. The user should
-enter 99999 to quit entering numbers. Display an error message if the user quits
-without entering any numbers; otherwise, display each entered value and its
-distance from the average. Save the file as DistanceFromAverage.java.
+Allow a user to enter 15 numbers of double values. Display the average first.
+Display each entered value and its distance from the average. Save the file as DistanceFromAverage.java.
+
+```bash
+Average: 10
+1,9
+10,0
+9,1
+...
+```
 
 ### Exercise 3
-Create an application containing an array that stores eight integers. The
-application should call five methods that in turn (1) display all the integers,
-(2) display all the integers in reverse order, (3) display the sum of the integers,
-(4) display all values less than a limiting argument, and (5) display all
-values that are higher than the calculated average value. Save the file as
-ArrayMethodDemo.java.
+Create an application containing an array that stores eight integers. 
+Allow a user to enter the 8 integers. 
+The application should call five methods that in turn 
+(1) display all the integers,
+(2) display all the integers in reverse order, 
+(3) display the sum of the integers,
+(4) display all values less than a limiting argument, and 
+(5) display all values that are higher than the calculated average value. 
+(6) Exit
+From 1 to 5, create separate static method for each operation.
+Save the file as ArrayMethodDemo.java.
