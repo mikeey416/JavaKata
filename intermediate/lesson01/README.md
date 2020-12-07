@@ -28,7 +28,7 @@ The application should call five methods that in turn
 (1) display all the integers,
 (2) display all the integers in reverse order, 
 (3) display the sum of the integers,
-(4) display all values less than a limiting argument, and 
+(4) display all values less than the average, and 
 (5) display all values that are higher than the calculated average value. 
 (6) Exit
 From 1 to 5, create separate static method for each operation.
