@@ -1,7 +1,7 @@
 # Intermediate - Lesson-02
 
 ## Goal
-* Use Basic Inheritance (Joyce Farrel - Chapter 8 p.467-503)
+* Use Basic Inheritance (Joyce Farrel - Chapter 10 p.467-503)
 
 ### Exercise 1
 Create an Alien class. Include at least three protected data members of your 
