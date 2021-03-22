@@ -27,4 +27,6 @@ birth year. Include get and set methods for these fields. Next, create a subclas
 named RaceHorse, which contains an additional field that holds the number of 
 races in which the horse has competed and additional methods to get and set 
 the new field. Write an application that demonstrates using objects of each class. 
+Use toString to print all the field values of Horse and RaceHorse.
 Save the files as Horse.java, RaceHorse.java, and DemoHorses.java.
+DemoHorses will call the toString method.
